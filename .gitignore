@@ -74,5 +74,6 @@ build/
 *.dmg
 *.bin
 
-# Temp
+# Misc
 temp/
+.obsidian
