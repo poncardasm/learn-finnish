@@ -12,6 +12,6 @@ If you have any questions or suggestions, don’t hesitate to reach out. I'm alw
 
 ## Tools
 
-Mistral Le Chat: https://chat.mistral.ai/
-Obsidian: https://obsidian.md/
-Anki Flash Card: https://apps.ankiweb.net/
+- Mistral Le Chat: https://chat.mistral.ai/
+- Obsidian: https://obsidian.md/
+- Anki Flash Card: https://apps.ankiweb.net/
