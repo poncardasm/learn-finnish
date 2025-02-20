@@ -1,0 +1,75 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Linux temporary files
+*~
+
+# Editor/IDE directories
+.vscode/
+.idea/
+
+# Editor temporary and backup files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+.#*
+
+# macOS resource forks
+._*
+
+# Log files
+*.log
+
+# Build files
+dist/
+build/
+
+# Local development files
+.env
+.env.local
+
+# Cache files
+.cache/
+
+# Temporary files
+*~
+\#*\#
+
+# Editor-specific backup files
+*.sublime-workspace
+*.sublime-project
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.iso
+
+# Video files (managed via LFS)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Audio files (managed via LFS)
+*.mp3
+*.wav
+*.aac
+
+# Other large files (managed via LFS)
+*.exe
+*.dmg
+*.bin
