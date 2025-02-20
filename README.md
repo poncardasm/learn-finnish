@@ -4,4 +4,4 @@ This repository is dedicated to collecting resources that I find helpful in my F
 
 Feel free to explore and use these resources to support your own language learning!
 
-If you have any questions or suggestions, please don't hesitate to reach out to me. I'm always happy to help and learn from others.
+If you have any questions or suggestions, please don't hesitate to reach out. I'm always happy to help and learn from others.
