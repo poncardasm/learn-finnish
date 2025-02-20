@@ -73,3 +73,6 @@ build/
 *.exe
 *.dmg
 *.bin
+
+# Temp
+temp/
