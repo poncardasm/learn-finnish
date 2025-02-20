@@ -1,2 +1,2 @@
-[[Chapter 1 - Location cases - Paikallissijat]]
-[[Chapter 2 - Demonstratiivipronominit - Demonstrative pronouns]]
+[[Chapter 01 - Location cases - Paikallissijat]]
+[[Chapter 02 - Demonstratiivipronominit - Demonstrative pronouns]]
