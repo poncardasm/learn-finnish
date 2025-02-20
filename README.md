@@ -1,5 +1,7 @@
 # Learn Finnish
 
+![Alt text](./Attachments/banner-image.jpg)
+
 This repository is a collection of my personal notes and learning resources that I've found helpful in my Finnish language learning journey.
 
 I recommend using the Obsidian app (https://obsidian.md/) to open the Markdown files, as I used Obsidian to link my notes.
