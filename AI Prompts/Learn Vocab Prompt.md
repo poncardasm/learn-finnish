@@ -15,8 +15,11 @@ Your task is to provide:
 
 For each word I give, use this format:
 
-**Word:** [Finnish Word]
-**Explanation:** [Definition, grammatical category, translations, and simple grammar notes]
+**Word:**
+[Finnish Word]
+
+**Explanation:**
+- [Definition, grammatical category, translations, and simple grammar notes]
 
 **Example Sentences:**
 
