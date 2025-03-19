@@ -1,0 +1,88 @@
+body {
+  margin-top: 50px;
+}
+
+.card {
+  font-family: font-reg;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+b,
+strong {
+  font-family: font-semibold;
+}
+
+.front-card {
+  font-size: 24px;
+  font-family: font-semibold;
+  font-weight: 500;
+}
+
+.back-card {
+  font-size: 20px;
+  color: #344054;
+}
+
+ul > li {
+  margin-top: 20px; /* Add margin to first-level <li> */
+}
+
+ul ul li {
+  margin-top: 0; /* Remove margin from nested <li> */
+}
+
+.context {
+  font-size: 16px;
+  padding: 0 16px;
+  color: #344054;
+  margin-top: 40px;
+  text-align: left;
+  line-height: 150%;
+}
+
+.nightMode .front-card {
+  color: #fff;
+}
+
+.nightMode .back-card {
+  color: #d0d5dd;
+}
+
+.nightMode .context {
+  color: #d0d5dd;
+}
+
+.mobile .night_mode .front-card {
+  color: #fff;
+}
+
+.mobile .nightMode .front-card {
+  color: #fff;
+}
+
+.night_mode.card {
+  color: #fff;
+}
+
+@font-face {
+  font-family: font-reg;
+  src: url('_Inter_18pt-Regular.ttf');
+}
+
+@font-face {
+  font-family: font-medium;
+  src: url('_Inter_18pt-Medium.ttf');
+}
+
+@font-face {
+  font-family: font-semibold;
+  src: url('_Inter_18pt-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: font-bold;
+  src: url('_Inter_18pt-Bold.ttf');
+}
