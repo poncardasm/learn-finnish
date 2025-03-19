@@ -1,6 +1,6 @@
 # Learn Finnish
 
-![Learn Finnish banner image](/attachments/banner-image.png)
+![Learn Finnish banner image](./assets/banner-image.png)
 
 This repository is a collection of my personal notes and learning resources that I've found helpful in my Finnish language learning journey.
 
