@@ -1,9 +1,11 @@
 ---
-category: "[[😊 Positive Feelings]]"
+category: "[[😊 Positive Emotions]]"
 en:
   - Confident
-pos: Adjective
+pos: Adj
 form: Nominative
+tags:
+  - positive
 notes:
 ---
 

@@ -1,9 +1,9 @@
 ---
-category: "[[😊 Positive Feelings]]"
+category: "[[😊 Positive Emotions]]"
 en:
   - Happy
   - Fortunate
-pos: Adjective
+pos: Adj
 form: Nominative
 notes:
 ---
