@@ -77,3 +77,4 @@ build/
 # Misc
 temp/
 .obsidian/
+*.sh

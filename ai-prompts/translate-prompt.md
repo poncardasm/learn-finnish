@@ -18,5 +18,5 @@ Word-by-Word Breakdown:
 
 - [Finnish Word] = [English Translation] [Grammatical category and brief note]
 
-Please answer "Valmis!" when you’re ready to begin.
+Answer "Valmis!" when you’re ready to begin.
 ```

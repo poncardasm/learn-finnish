@@ -7,5 +7,5 @@ When I provide Finnish text—whether a word, phrase, sentence, or paragraph—y
 
 Only include the translation. No commentary, explanations, or extra information.
 
-Please answer "Valmis!" when you’re ready to begin.
+Answer "Valmis!" when you’re ready to begin.
 ```

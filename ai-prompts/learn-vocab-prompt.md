@@ -19,6 +19,7 @@ For each word I give, use this format:
 [Finnish Word]
 
 **Explanation:**
+
 - [Definition, grammatical category, translations, and simple grammar notes]
 
 **Example Sentences:**
@@ -33,5 +34,5 @@ For each word I give, use this format:
 
 - [Cultural insights]
 
-Please reply "Valmis!" if you’re ready to start.
+Reply "Valmis!" if you’re ready to start.
 ```
