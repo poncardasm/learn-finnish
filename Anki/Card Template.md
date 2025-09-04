@@ -1,3 +1,34 @@
+# Card Template
+
+## Front
+
+```
+<div class="front-card">{{Word}}</div>
+
+<div style="width: 300px; display: block; margin: 20px auto;">
+	{{Photo}}
+</div>
+```
+
+## Back
+
+```
+{{FrontSide}}
+
+<hr id=answer>
+
+<div class="back-card">
+	{{Definition}}
+</div>
+
+<div class="context">
+	{{Context}}
+</div>
+```
+
+## Styling
+
+```
 body {
   margin-top: 50px;
 }
@@ -8,6 +39,12 @@ body {
   text-align: center;
   color: black;
   background-color: white;
+
+  /* ✅ Constrain readable width */
+  max-width: 700px; /* adjust to taste: 600–800px is good for readability */
+  margin: 0 auto; /* center the card horizontally */
+  padding: 0 20px; /* add breathing room on the sides */
+  box-sizing: border-box;
 }
 
 b,
@@ -35,8 +72,7 @@ ul ul li {
 }
 
 .context {
-  font-size: 16px;
-  padding: 0 16px;
+  font-size: 18px;
   color: #344054;
   margin-top: 40px;
   text-align: left;
@@ -69,20 +105,21 @@ ul ul li {
 
 @font-face {
   font-family: font-reg;
-  src: url('_Inter_18pt-Regular.ttf');
+  src: url("_Inter_18pt-Regular.ttf");
 }
 
 @font-face {
   font-family: font-medium;
-  src: url('_Inter_18pt-Medium.ttf');
+  src: url("_Inter_18pt-Medium.ttf");
 }
 
 @font-face {
   font-family: font-semibold;
-  src: url('_Inter_18pt-SemiBold.ttf');
+  src: url("_Inter_18pt-SemiBold.ttf");
 }
 
 @font-face {
   font-family: font-bold;
-  src: url('_Inter_18pt-Bold.ttf');
+  src: url("_Inter_18pt-Bold.ttf");
 }
+```

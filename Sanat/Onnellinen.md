@@ -1,9 +1,10 @@
 ---
-category: "[[😊 Positive Emotions]]"
 en:
   - Happy
   - Fortunate
-pos: Adj
+pos:
+  - Adj
+  - Noun
 form: Nominative
 notes:
 ---
@@ -15,27 +16,25 @@ notes:
 
 ---
 
-## 🧩 **Explanation:**
+## Explanation
 
-- **onnellinen** is an **adjective** (describes a feeling or state).
+- **Onnellinen** is an **adjective** (describes a feeling or state).
 - It comes from the noun **onni**, which means **luck**, **happiness**, or **good fortune**.
 - The ending **-llinen** is like **"-ful"** or **"-y"** in English, turning a noun into an adjective:
     - *onni* (luck) → *onnellinen* (happy / lucky)
 
-## 📝 **Example Sentences:**
+## Example Sentences
 
 - **Olen onnellinen.**
 	- *I am happy.*
-
 - **He ovat onnellisia yhdessä.**
 	- *They are happy together.*
-
 - **Toivon, että olet onnellinen.**
 	- *I hope you are happy.*
 
 ---
 
-## 🔤 **Forms Of Onnellinen (for reference):**
+## Forms Of Onnellinen (for reference)
 
 |Case/Form|Example|Translation|
 |---|---|---|
@@ -47,7 +46,7 @@ notes:
 
 ---
 
-## 💬 Notes
+## Notes
 
 - You often use **"onnellinen"** with the verb **"olla"** (*to be*):
     - *Minä olen onnellinen.* = *I am happy.*

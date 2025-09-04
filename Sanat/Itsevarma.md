@@ -1,5 +1,4 @@
 ---
-category: "[[😊 Positive Emotions]]"
 en:
   - Confident
 pos: Adj
@@ -11,20 +10,13 @@ notes:
 
 # Itsevarma
 
-- Self-confident
-- Confident
-
----
-
-## 🧩 **Explanation:**
-
 - **itsevarma** is an **adjective** that describes someone who is confident or self-assured.
 - It's a compound word:
     - **itse** = self
     - **varma** = sure, certain
 - So it literally means *"sure of oneself."*
 
-## 📝 **Example Sentences:**
+## Example Sentences
 
 - **Hän on itsevarma esiintyjä.**
     - *He/She is a confident performer.*
@@ -35,7 +27,7 @@ notes:
 
 ---
 
-## 🔤 **Forms Of Itsevarma (for reference):**
+## Forms Of `Itsevarma` (for reference)
 
 | Case/Form           | Example     | Translation                              |
 | ------------------- | ----------- | ---------------------------------------- |
@@ -47,7 +39,7 @@ notes:
 
 ---
 
-## 💬 Notes
+## Notes
 
 - You can use **itsevarma** with **olla** (*to be*):
     - *Olen itsevarma.* = *I am confident.*

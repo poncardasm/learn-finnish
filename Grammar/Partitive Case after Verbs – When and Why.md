@@ -1,11 +1,11 @@
 # Partitive Case after Verbs – When and Why?
 
-### 1. **The Action is Incomplete or ongoing**
+## 1. **The Action is Incomplete or ongoing**
 
 - Finnish expresses this by using the partitive.
 - Think of it like: `some`, `not all,` or `in progress`.
 
-#### 🧾 Examples
+### 🧾 Examples
 
 - **Luemme kirjaa.** → "We are reading a book."
     *(Ongoing action — "not finished" → partitive "kirjaa")*
@@ -15,11 +15,11 @@
 
 ---
 
-### 2. **The Object is "indefinite" or uncountable**
+## 2. **The Object is "indefinite" or uncountable**
 
 - If the thing you're talking about is not specific or measurable.
 
-#### 🧾 Examples
+### 🧾 Examples
 
 - **Join vettä.** → "I drank (some) water."
     *(Water is uncountable → partitive)*
@@ -29,11 +29,11 @@
 
 ---
 
-### 3. **The Verb Inherently Requires the partitive**
+## 3. **The Verb Inherently Requires the partitive**
 
 Some verbs **always** take the partitive, even if the object is "complete." This is just something you memorize as you go.
 
-#### ⚠️ These Are Called **"partitive verbs"**
+### ⚠️ These Are Called **"partitive verbs"**
 
 A few common ones:
 
@@ -47,7 +47,7 @@ A few common ones:
 |etsiä|to search for|
 |pelätä|to fear|
 
-#### 🧾 Examples
+### 🧾 Examples
 
 - **Rakastan sinua.** → "I love you."
     *(sinua = partitive of sinä)*
@@ -60,23 +60,23 @@ A few common ones:
 
 ---
 
-### 🔹 So how Do I Know what case to Use?
+## 🔹 So how Do I Know what case to Use?
 
 Here's a simple step-by-step to help you decide:
 
-#### ✅ Step 1: Ask — Is the Verb One of the **partitive verbs**?
+### ✅ Step 1: Ask — Is the Verb One of the **partitive verbs**?
 
 If yes → Use the partitive.
 
-#### ✅ Step 2: Is the Action **incomplete**, **ongoing**, or **uncountable**?
+### ✅ Step 2: Is the Action **incomplete**, **ongoing**, or **uncountable**?
 
 If yes → Use the partitive.
 
-#### ✅ Step 3: Is the Object **complete**, **specific**, and the Action is Done?
+### ✅ Step 3: Is the Object **complete**, **specific**, and the Action is Done?
 
 Then you might use **accusative/genitive** instead.
 
-### 🔄 Compare
+## 🔄 Compare
 
 |Sentence|Case Used|Why|
 |---|---|---|
